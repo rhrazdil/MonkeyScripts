@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name CFME provision VM speed button
+// @name IPCopy
+// @description Copy IP address from clicked element
 // @namespace Violentmonkey Scripts
 // @match https://*/*
 // @grant GM_addStyle
