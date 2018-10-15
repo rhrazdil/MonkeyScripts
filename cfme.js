@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name CFME provision VM speed button
+// @name CFME provision VM autofill on click
 // @namespace Violentmonkey Scripts
 // @match https://*/*
 // @grant GM_addStyle
